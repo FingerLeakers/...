@@ -1,5 +1,14 @@
-# ...
+# ....................
 
+From Wikileak SPYFILES Release 4
+
+https://wikileaks.org/spyfiles/#Release%204
+
+FinFisher Exploits
+
+
+
+Wikileaks Says...
 
 
 Today, 15 September 2014, WikiLeaks releases previously unseen copies of weaponised German surveillance malware used by intelligence agencies around the world to spy on journalists, political dissidents and others.
@@ -12,7 +21,11 @@ Julian Assange, WikiLeaks Editor in Chief said: "FinFisher continues to operate 
 
 FinFisher Relay and FinSpy Proxy are the components of the FinFisher suite responsible for collecting the data acquired from the infected victims and delivering it to their controllers. It is commonly deployed by FinFisher's customers in strategic points around the world to route the collected data through an anonymizing chain, in order to disguise the identity of its operators and the real location of the final storage, which is instead operated by the FinSpy Master.
 
+![Alt text](https://i.imgur.com/EOGxfer.jpg "FinFisher")
+
 WikiLeaks is also publishing previously unreleased copies of the FinFisher FinSpy PC spyware for Windows. This software is designed to be covertly installed on a Windows computer and silently intercept files and communications, such as Skype calls, emails, video and audio through the webcam and microphone (you can find more details on FinSpy in the first SpyFiles release). In order to prevent any accidental execution and infection, the following files have been renamed and compressed in password protected archives (the password is "infected"). They are weaponised malware, so handle carefully.
+
+![Alt text](https://i.imgur.com/V9Ad0vG.jpg "FinFisher")
 
 In order to challenge the secrecy and the lack of accountability of the surveillance industry, analyzing the internals of this software could allow security and privacy researchers to develop new fingerprints and detection techniques, identify more countries currently using the FinFisher spyware and uncover human rights abuses.
 
