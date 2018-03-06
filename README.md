@@ -18,14 +18,14 @@ ffrelay-debian-4.30.ggi.zip 	FinFisher Relay v4.30 	180caf23dd71383921e368128fb6
 finspy_proxy.zip 	FinSpy Proxy v2.10 	3dfdac1304eeaaaff57cc11317768511 	320K
 </br>
 finspy_master.zip 	FinSpy Master v2.10 	03d93c49a536d149206f5524d87fa319 	2.5M
-
+</br>
 WikiLeaks is also publishing previously unreleased copies of the FinFisher FinSpy PC spyware for Windows. This software is designed to be covertly installed on a Windows computer and silently intercept files and communications, such as Skype calls, emails, video and audio through the webcam and microphone (you can find more details on FinSpy in the first SpyFiles release). In order to prevent any accidental execution and infection, the following files have been renamed and compressed in password protected archives (the password is "infected"). They are weaponised malware, so handle carefully.
 
 </br>
 finfisher.1.zip 	FinSpy PC 	2d5c810035dc0f83036fb12e8775817a 	736K
 </br>
 finfisher.2.zip 	FinSpy PC 	434b83eba7619cb706492ff019ade0d5 	576K
-
+</br>
 In order to challenge the secrecy and the lack of accountability of the surveillance industry, analyzing the internals of this software could allow security and privacy researchers to develop new fingerprints and detection techniques, identify more countries currently using the FinFisher spyware and uncover human rights abuses.
 
 In addition, in this fourth iteration of the SpyFiles collection, WikiLeaks publishes the newly indexed material the same as the recent FinFisher breach (for which you can find the torrent file here), including new brochures and a database of the customer support website, that provide updated details on their productline and a unique insight into the company's customer-base.
