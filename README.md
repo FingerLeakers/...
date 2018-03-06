@@ -13,7 +13,9 @@ Julian Assange, WikiLeaks Editor in Chief said: "FinFisher continues to operate 
 FinFisher Relay and FinSpy Proxy are the components of the FinFisher suite responsible for collecting the data acquired from the infected victims and delivering it to their controllers. It is commonly deployed by FinFisher's customers in strategic points around the world to route the collected data through an anonymizing chain, in order to disguise the identity of its operators and the real location of the final storage, which is instead operated by the FinSpy Master.
 
 File Name 	Product Name 	MD5 	File Size
+</br>
 ffrelay-debian-4.30.ggi.zip 	FinFisher Relay v4.30 	180caf23dd71383921e368128fb6db52 	224K
+</br>
 finspy_proxy.zip 	FinSpy Proxy v2.10 	3dfdac1304eeaaaff57cc11317768511 	320K
 finspy_master.zip 	FinSpy Master v2.10 	03d93c49a536d149206f5524d87fa319 	2.5M
 
